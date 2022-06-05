@@ -68,4 +68,5 @@ Son derece bilinen veya yaygın olan bir problemin çözümünde alt problemlere
 
 * **_Yerel Olmayan Erişim_**
 
-Fonksiyon dışındaki bir değişkene erişim her zaman için parametreler aracılığı ile olmalıdır.Global tanımlanmış bir değişkene yerel olmayan erişim "black box" paradigmasını ihlal eder. Temel olarak bir kara kutunun programın diğer kısımları ile iletişime girerken karmaşıklığı ve soyutlamayaı basit tutmak için parametre mekanizmasını kullanmasını sağlamak gerekir. Yerel olmayan erişim, sabitler ve standart girdi-çıktı dosyaları için uygundur. 
+Fonksiyon dışındaki bir değişkene erişim her zaman için parametreler aracılığı ile olmalıdır.Global tanımlanmış bir değişkene yerel olmayan erişim "black box" paradigmasını ihlal eder. Temel olarak bir kara kutunun programın diğer kısımları ile iletişime girerken karmaşıklığı ve soyutlamayaı basit tutmak için parametre mekanizmasını kullanmasını sağlamak gerekir.
+Yerel olmayan erişim, sabitler ve standart girdi-çıktı dosyaları için uygundur. 
